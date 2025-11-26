@@ -1,0 +1,20 @@
+{
+  "name": "alaskaos_svelte",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-netlify": "^2.0.6",
+    "@sveltejs/kit": "https://registry.npmjs.org/@sveltejs/kit/-/kit-1.30.3.tgz",
+    "@sveltejs/vite-plugin-svelte": "^2.4.5",
+    "esbuild": "^0.19.11",
+    "svelte": "^4.2.0",
+    "typescript": "5.0.4",
+    "vite": "^4.5.2"
+  }
+}

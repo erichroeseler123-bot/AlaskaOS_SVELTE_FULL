@@ -1,0 +1,4 @@
+[
+  {"id":"mendenhall","slug":"mendenhall","title":"Mendenhall Glacier","image":"/img/default-tour.jpg","locations":["juneau"]},
+  {"id":"rail","slug":"rail","title":"White Pass Rail","image":"/img/default-tour.jpg","locations":["skagway"]}
+]
